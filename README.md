@@ -1,3 +1,6 @@
+# Hey there <img src="https://github.com/ysherqawi/ysherqawi/blob/master/images/wave.gif" alt="Waving Hand" width="40">, I'm [Kamalakannan!](https://github.com/Kamalakannan1)
+<img src="https://github.com/Kamalakannan1/Kamalakannan1/blob/main/git_readme.gif" alt="A Developer Sitting In Front Of a Computer" style="margin-top:-40px" align="right" width="475" height="350" />
+
 # 💫 About Me:
 - 🔭 I’m currently working on **Final Year Project**
 - 🌱 I’m currently learning **Java**
@@ -7,7 +10,6 @@
 - 📫 How to reach me: kamalakannan200336@gmail.com
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **Be crazy Do crazy!**
-
 
 # 🌐 Socials:
 <p align="left">
