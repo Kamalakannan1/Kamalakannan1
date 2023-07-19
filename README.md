@@ -2,14 +2,14 @@
 <img src="https://github.com/Kamalakannan1/Kamalakannan1/blob/main/git_readme.gif" alt="A Developer Sitting In Front Of a Computer" style="margin-top:-40px" align="right" width="475" height="350" />
 
 # 💫 About Me:
-- 🔭 I’m currently working on **Final Year Project**
+- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp;I’m currently working on **Final Year Project**
 - 🌱 I’m currently learning **Java**
 - 👯 I’m looking to collaborate on **Machine Learning**
-- 🤔 I’m looking for help with **Interviews**
-- 💬 Ask me about **LaTeX**
-- 📫 How to reach me: kamalakannan200336@gmail.com
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I’m looking for help with **Interviews**
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **LaTeX**
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; How to reach me: kamalakannan200336@gmail.com
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **Be crazy Do crazy!**
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: **Be crazy Do crazy!**
 
 # 🌐 Socials:
 <p align="left">
@@ -33,6 +33,18 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Kamalakannan1&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+<div align="center" width="50">
+<hr></hr>
+
+**Code Cycle**<br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
+</div>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Kamalakannan1&icon=0&color=12)](https://visitcount.itsvg.in)
