@@ -1,4 +1,4 @@
-# Hey there <img src="https://github.com/ysherqawi/ysherqawi/blob/master/images/wave.gif" alt="Waving Hand" width="40">, I'm [Kamalakannan!](https://github.com/Kamalakannan1)
+# <h1 align="center">  [Hello there, I'm Kamalakannan!](https://github.com/Kamalakannan1) <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />
 
 <img src="https://github.com/Kamalakannan1/Kamalakannan1/blob/main/git_readme.gif" alt="A Developer Sitting In Front Of a Computer" style="margin-top:-40px" align="right" width="475" height="350" />
 
